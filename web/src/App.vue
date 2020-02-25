@@ -40,7 +40,7 @@
 					href="/"
 					target="_blank"
 				>
-					<v-icon>mdi-github-circle</v-icon>&nbsp;Cloud</v-btn
+					<v-icon>mdi-cloud-circle</v-icon>&nbsp;Cloud</v-btn
 				>
 			</v-toolbar-items>
 		</v-app-bar>
